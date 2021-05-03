@@ -1,0 +1,28 @@
+{
+  "gameState" : 0,
+  "player" : {
+    "name" : ""
+  },
+  "player1" : {
+    "name" : "Name"
+  },
+  "player2" : {
+    "name" : "Name"
+  },
+  "player3" : {
+    "name" : "Name"
+  },
+  "player4" : {
+    "name" : "Name"
+  },
+  "player5" : {
+    "name" : "Name"
+  },
+  "player6" : {
+    "name" : "Name"
+  },
+  "playerCount" : 6,
+  "playerNaN" : {
+    "name" : "Name"
+  }
+}
